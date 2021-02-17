@@ -1,0 +1,22 @@
+{
+  "name": "anythingyouwant",
+  "version": "1.0.0",
+  "description": "*This is the camp.dev camp template for you to get started creating your very own course. Follow the instructions and this repository will automatically create the neccessary config files and sync every time you commit - have fun!*",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MetzinAround/AnythingYouWant.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MetzinAround/AnythingYouWant/issues"
+  },
+  "homepage": "https://github.com/MetzinAround/AnythingYouWant#readme",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
